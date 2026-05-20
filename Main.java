@@ -8,6 +8,9 @@ public class Main {
         triangulo.mostrarArea();
         System.out.println("---------------------");
 
+        Pato pato = new Pato("Pato Donald");
+        pato.volar();
+        pato.nadar();
         
     }
 }
